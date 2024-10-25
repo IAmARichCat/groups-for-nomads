@@ -72,6 +72,8 @@
 
 ![Linktree](icons/linktree.svg) [Dutchies Worldwide](https://linktr.ee/dutchiestravelling)
 
+![Whatsapp](icons/whatsapp.svg) [Travellers worldwide 🌎](https://chat.whatsapp.com/B9zqhvkq9FAE5rkz2iA2BU)
+
 ![Whatsapp](icons/whatsapp.svg) [Overlanding Community](https://chat.whatsapp.com/IfmuhQ55pQh6ZGdTmykzU0)
 
 ![Whatsapp](icons/whatsapp.svg) [Container Sharing and RoRo Shipping worldwide 🚢](https://chat.whatsapp.com/BmCwZ5YSY489u4Chb87llo)
@@ -116,6 +118,8 @@ Africa
 
 ## Spain 🇪🇸 <a name="spain"></a>
 ![Telegram](icons/telegram.svg) [MundoLingo Spain](https://t.me/+DrjlLBeM0soxNTM0)
+![Whatsapp](icons/whatsapp.svg) [Spain Travellers](https://chat.whatsapp.com/KmLqZefqRduGYGxtdgrPM0)
+
 
 ### Barcelona
 ![Whatsapp](icons/whatsapp.svg) [CouchSurfing Barcelona](https://chat.whatsapp.com/EqAYv1stKRa1iErgSUSKhi)
@@ -695,6 +699,7 @@ Africa
 
 ![Whatsapp](icons/whatsapp.svg) [Overland durch Afrika 🌍 (Deutsch)(Commercial)](https://chat.whatsapp.com/LdfGpQSo9EHBqM1taZ1YQe)
 
+![Whatsapp](icons/whatsapp.svg) [Chat in Cape Town 🇿🇦](https://chat.whatsapp.com/JstMvmuDWOH8iahilfMXz7)
 <p>&nbsp;</p><p>&nbsp;</p>
 
 # Asia <a name="continent-asia"></a>
